@@ -40,15 +40,12 @@ const reducer = (state=[], action) =>{                 // OK -> export default r
                     resolved: false
                 }
             ]
-            break
         // case actionTypes.BUG_RESOLVED:
         case BUG_RESOLVED:
             return state.map(bug => bug.id === action.payload.id ? { ...bug, resolved: true } : bug )
-            break
         // case actionTypes.BUG_REMOVED:
         case BUG_REMOVED:
             return state.filter(bug => bug.id !== action.payload.id)
-            break
         default:
             return state
     }
