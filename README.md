@@ -1,8 +1,9 @@
 # Redux from Scratch
-Learning 'Redux' for state management of simple bugs registry
+Learning 'Redux' for state management of simple bugs registry.
 
 
 ## Work Flow
+
 - Design the store
 - Define the actions <props> type, payload
 - Create a reducer <arguments> state, action
@@ -10,6 +11,7 @@ Learning 'Redux' for state management of simple bugs registry
 
 
 ## Structure
+
 - dist
     - index.html
 - src
