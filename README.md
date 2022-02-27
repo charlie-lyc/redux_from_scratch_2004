@@ -1,5 +1,5 @@
 # Redux from Scratch
-Learn Redux from scratch with building 'Bugs Registry'
+Learning 'Redux' for state management of simple bugs registry
 
 
 ## Work Flow
