@@ -1,5 +1,5 @@
 # Redux from Scratch
-Learning [Redux](https://github.com/reduxjs/redux) for state management of simple bugs registry.
+Learning state management with [Redux](https://github.com/reduxjs/redux) for bugs registry.
 
 
 ## Work Flow
